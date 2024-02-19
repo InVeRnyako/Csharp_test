@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj": {}
+    "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\Csharp_test\\area\\area.csproj": {}
   },
   "projects": {
-    "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj": {
+    "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\Csharp_test\\area\\area.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj",
+        "projectUniqueName": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\Csharp_test\\area\\area.csproj",
         "projectName": "area",
-        "projectPath": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj",
+        "projectPath": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\Csharp_test\\area\\area.csproj",
         "packagesPath": "C:\\Users\\InVeRnyako\\.nuget\\packages\\",
-        "outputPath": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\obj\\",
+        "outputPath": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\Csharp_test\\area\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\InVeRnyako\\AppData\\Roaming\\NuGet\\NuGet.Config"
