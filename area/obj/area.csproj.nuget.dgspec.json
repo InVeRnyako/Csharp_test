@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj": {}
+  },
+  "projects": {
+    "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj",
+        "projectName": "area",
+        "projectPath": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\area.csproj",
+        "packagesPath": "C:\\Users\\InVeRnyako\\.nuget\\packages\\",
+        "outputPath": "D:\\!Програмирование\\Тестовые_задания\\hh_вакансии\\2024.02.19_76709182\\area\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\InVeRnyako\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
