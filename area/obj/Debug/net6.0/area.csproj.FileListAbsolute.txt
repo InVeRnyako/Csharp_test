@@ -1,0 +1,15 @@
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\bin\Debug\net6.0\area.exe
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\bin\Debug\net6.0\area.deps.json
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\bin\Debug\net6.0\area.runtimeconfig.json
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\bin\Debug\net6.0\area.dll
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\bin\Debug\net6.0\area.pdb
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.csproj.AssemblyReference.cache
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.AssemblyInfoInputs.cache
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.AssemblyInfo.cs
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.csproj.CoreCompileInputs.cache
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.dll
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\refint\area.dll
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.pdb
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\area.genruntimeconfig.cache
+D:\!Програмирование\Тестовые_задания\hh_вакансии\2024.02.19_76709182\Csharp_test\area\obj\Debug\net6.0\ref\area.dll
